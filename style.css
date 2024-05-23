@@ -1,0 +1,269 @@
+body {
+background-color:#66FFFF;
+}
+
+P {
+	FONT-SIZE:small; 
+	FONT-FAMILY:Verdana,sans-serif;
+	margin-left:15px;
+}
+
+.nav{ 
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px;
+	}
+	 
+.border {
+border-left:1px;
+border-left:solid;
+border-left: #000000;
+border-right:1px;
+border-right:solid;
+border-right:black;
+	}
+
+.bord1 {
+ background:#F5F5DC;
+ text-align:center;
+ font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.bord2 {
+border: groove;
+}
+
+.bold {
+font-weight:bold;
+margin-left:30px;
+	}
+
+.bold2 
+	{
+	font-weight:bold;
+	padding-left:10px;
+	}
+	
+.text {
+	font-weight:bold;
+	font-family:"Times New Roman", Times, serif;
+	font-size:large;
+	text-align:center;
+	margin-top:10px;
+	}
+	
+.text1  {
+	color:Black;
+	text-align:center;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:small;
+	font-weight:bold;
+	}
+	
+.text2 {
+	font-family:"Courier New", Courier, monospace;
+	font-size:medium;
+	text-align:center;
+	}
+
+.text3  {
+	font-family:"Courier New", Courier, monospace;
+	font-style:italic;
+	font-size:medium;
+	text-align:center;
+	}
+	
+.text4 {
+	font-style:italic;
+	margin-left:30px;
+	}
+	
+	
+.text5 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:larger;
+	font-style:italic;
+	text-align:left;
+	}
+	
+.text6 {
+font-variant:inherit;
+margin-left:30px;
+	}
+	
+.lin {
+	text-decoration:underline;
+	}
+
+.sglav {
+	color:Purple;
+	font-family:"Times New Roman", Times, serif;
+	font-size:larger;
+	font-weight:bold;
+	text-align:center;	
+	}
+	
+.colorcentr {
+	color:#A52A2A;
+	background:#C7DDEB;
+	font-weight:bolder;
+	font-size:larger;
+	font-family:"Times New Roman", Times, serif;
+	text-align:center;
+	}	
+	
+.color1  {
+	font-weight:bold;
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	margin:5px;
+	color:#cc0000;
+	}
+	
+.color2 {
+	color:#A52A2A;
+	font-weight:bold;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	text-align:center;
+	margin-left:5px;
+	margin-right:5px;
+	}	
+	
+.color3 {color:#669900}
+	
+.menu {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:small;
+margin-left:5px;
+	}
+	
+.feuter  {
+	font-family:"Courier New", Courier, monospace;
+	font-style:italic;
+	font-size:small;
+	text-align:center;
+	}
+	
+.fon  {
+ background-color:#ECFFFF;
+}
+
+.bel {
+	background-color:#ffffff
+	}
+	
+.fonsel {
+	font-size: large;
+	font-weight: bold;
+	font-family: "Times New Roman", Times, serif;
+	color: #A52A2A;
+	text-align: center;
+	background: #99FFCC;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+	
+.mainborder  {
+	border-color: #000000;
+	border: solid;
+	}
+
+.sagtxt{ 
+	color:#990033;
+	font-family:"Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size: larger;
+	margin-left:35px;
+	}
+
+.new{ 
+	color:Black;
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-style:italic;
+	font-weight:bold;
+	margin-left:15px;
+	}
+	
+.rvts8{
+	 color:#000000;
+	 font-family:Verdana, Tahoma,monospagce; 
+	 font-style:italic;
+	 font-weight:small-caps;
+	 }
+	
+.otst {margin-left: 30px}
+	
+.otst_em
+	{ 
+	font-style:italic;
+	margin-left : 30px;
+	}
+	
+.otst_melk 
+	{
+ 	margin-left: 30px;
+	font-size: smaller;
+	} 
+	
+.bold_otst {
+	font-weight: bold;
+	padding-left: 10px;
+	color: #FF0000;
+	font-family: "Courier New", Courier, monospace;
+	}
+	
+.skob {
+	font-size: small;
+	font-style: italic;
+}
+
+.red {
+	color:#FF0033;   
+	text-align:center; 
+	font-family:Verdana, Tahoma,monospagce; 
+	line-height:50px;
+	}
+	
+.zag {
+	color:000000;   
+	text-align:left;  
+	font-size:medium; 
+	font-variant:small-caps; 
+	font-style:italic; 
+	}
+	
+.vts5{
+	color:#000000;
+	font-family:Verdana, Tahoma, monospagce;
+	font-weight:bold;
+	 }
+	
+.alm 
+	{
+	font-size: smaller;
+	text-align:center;  
+	padding:5px; 
+	}  
+	
+.alm2
+	{
+	padding:5px; 
+	}
+	
+#counter{
+	visibility : hidden;
+}	
+/* ---------- Para Styles ---------- */
+ul,ol 
+	{text-align: left;
+	 text-indent: 0px;
+	 padding: 0px 0px 0px 0px;
+	 margin: 0px 0px 0px 0px;}
+
+a:link {color:#26d; text-decoration:underline;}
+a:hover {color:#990000; text-decoration:underline;}
+a:visited {color: #006600; text-decoration:none;}
+a:active {color: #FF6600; text-decoration:none;}
+
+	/* CSS Document */
+	
+.mainborder2 {
+	border: 1px solid #0000CC;
+}
